@@ -1,0 +1,10 @@
+File: , Lines: 0
+File: admin_script_azeez_saka.sh, Lines: 91
+File: backup_20231124111251.tar.gz, Lines: 3
+File: dead.letter, Lines: 130
+File: fileMover.sh, Lines: 9
+File: greetScript.sh, Lines: 11
+File: html_template.html, Lines: 14
+File: mysql_docker, Lines: 1
+File: photorec.se2, Lines: 0
+File:  : <Tab, Lines: 0
